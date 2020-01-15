@@ -1,0 +1,10 @@
+MODEL_DIR = './models/'
+DATA_DIR  = './data/'
+
+BUY  = 2
+SELL = 1
+HOLD = 0
+
+EPOCHS = 100
+BATCH_SIZE = 100
+LEARNING_RATE = 0.001
